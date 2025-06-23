@@ -13,5 +13,5 @@ A simple Python tool to convert a `curl` command into an HTTP request file compa
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/curl-to-sqlmap-request.git
+git clone https://github.com/bnggfxc/curl-to-sqlmap-request.git
 cd curl-to-sqlmap-request
